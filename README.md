@@ -21,3 +21,11 @@ Remove unused string.
 ```
 python string.py
 ```
+
+# dimen.py
+Remove unused dimen.
+
+```
+python dimen.py
+```
+
